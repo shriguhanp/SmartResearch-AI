@@ -44,8 +44,9 @@ Existing tools are either generic search engines or complex AI systems that are 
 - **Google Gemini AI** – for large language model reasoning  
 - **Google Cloud Storage** – storing research outputs  
 - **Google APIs** – Knowledge Graph, Search API  
-- **Google Colab** – prototyping AI models  
+
 
 ---
 
 ## 🔹 Process Flow
+
